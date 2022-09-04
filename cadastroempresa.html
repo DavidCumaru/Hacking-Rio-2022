@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+
+    <html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title> Connections </title>
+
+        <!-- CSS -->
+        <link rel="stylesheet" href="css/style.css">
+                
+        <!-- icons CSS -->
+        <link href='https://unpkg.com/boxicons@2.1.2/css/boxicons.min.css' rel='stylesheet'>
+                        
+    </head>
+    <body>
+        <section class="container forms">
+            <div class="form login">
+                <div class="form-content">
+                    <header>Connections</header>
+                    <p>Cadastro de Empresa</p>
+                    <form  action="#">
+                        <div class="field input-field">
+                            <input type="text" placeholder="Nome" class="text" id="emailLogin">
+                        </div>
+
+                        <div class="field input-field">
+                            <input type="text" placeholder="Email" class="text" id="senhaLogin">
+                            <i class='bx bx-hside eye-icon'></i>
+                        </div>
+
+                        <div class="field input-field">
+                            <input type="text" placeholder="CNPJ" class="text" id="senhaLogin">
+                            <i class='bx bx-hide eye-icon'></i>
+                        </div>
+                        <div class="field input-field">
+                            <input type="text" placeholder="Endereço" class="text" id="senhaLogin">
+                            <i class='bx bx-hide eye-icon'></i>
+                        </div>
+
+                        <div class="field input-field">
+                            <input type="text" placeholder="Ramo" class="text" id="senhaLogin">
+                            <i class='bx bx-hide eye-icon'></i>
+                        </div>
+
+
+                            <div class="field input-field">
+                                <input type="text" placeholder="CEP" class="text" id="senhaLogin">
+                                <i class='bx bx-hide eye-icon'></i>
+                            </div>
+
+                            <div class="field input-field">
+                                <input type="text" placeholder="Nome do projeto" class="text" id="senhaLogin">
+                                <i class='bx bx-hide eye-icon'></i>
+                            </div>
+                       
+                    </form>
+
+                    
+                </div>
+
+
+              
+
+                <div class="field button-field">
+                    <button type="submit">Enviar Informações</button>
+                </div>
+
+            </div>
+
+            <!-- Formulário -->
+
+            <div class="form signup">
+                <div class="form-content">
+                    <header>Inscrever-se</header>
+                    <form onsubmit="cadastraLogin()" action="#">
+                        <div class="field input-field">
+                            <input type="email" placeholder="Email" class="input" id="emailCadastro">
+                        </div>
+
+                        <div class="field input-field">
+                            <input type="password" placeholder="Create password" class="password" id="senhaCadastro">
+                        </div>
+
+                        <div class="field input-field">
+                            <input type="password" placeholder="Confirm password" class="password" id="senhaConfirma">
+                            <i class='bx bx-hide eye-icon'></i>
+                        </div>
+
+                        <div class="field button-field">
+                            <button type="submit">Inscrever-se</button>
+                        </div>
+                    </form>
+
+                    <div class="form-link">
+                        <span>Já tem uma conta? <a href="#" class="link login-link">Login</a></span>
+                    </div>
+                </div>
+
+                <div class="line"></div>
+
+                
+
+                <div class="media-options">
+                    <a href="#" class="field google">
+                        <span>Enviar</span>
+                        
+                    </a>
+                </div>
+
+            </div>
+        </section>
+
+        <!-- JavaScript -->
+        <script src="js/Login.js"></script>
+        <script src="js/api.js"></script>
+    </body>
+</html>

@@ -1,19 +1,11 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8362731&assignment_repo_type=AssignmentRepo)
->Esse é um arquivo de template e tem como o intuito prover uma breve apresentação de seu projeto para avaliadores e mentores. Sinta-se à vontade para editar os tópicos e títulos de acordo com seu gosto ou até mesmo para deletá-lo ou sobrescreve-lo caso o queira. Cheque também o arquivo [repositorio.md](https://github.com/hackingrio/template/blob/master/repositorio.md) para saber o que acontecerá com esse repositório depois que o evento acabar.
-
-# Nome do produto - 2022
-### Equiepe 67 / Nome da ODS 9 e desafio Petrobras
+# Connections - 2022
+### Equipe 67 / ODS 9 - Indústria, Inovação e Infraestrutura. 
+### Desafio Petrobras
 
 #### Apresentação 
 
-Use essa seção para falar sobre as motivações de seu time e, de forma breve, qual o produto que estão trabalhando. Se possível forneça **o que** seu produto é, por exemplo: Um app, uma aplicação web, gadget, dentre outros.
+Visando um maior engajamento entre empresas do setor de inovação, pesquisa e avanço tecnológico com os projetos e oportunidades oferecidas pela Petrobras, pensamos em algo mais abrangente que envolveria e traria integração entre todas as partes interessadas. Com esse objetivo em mente, optamos por desenvolver uma aplicação web que promove a ideia de um verdadeiro ecossistema onde há, de fato, participação de todos os tipos de players da área.
 
 #### O Produto
 
-Adicione detalhes sobre seu produto. Levante pontos positivos, o porquê dele ser inovador, como ele se alinha com o cluster escolhido e quaisquer outras informações relevantes ao entendimento do 'porquê' e 'como' seu produto existe e atua.
-
-#### Informações adicionais 
-
-Forneça informações adicionais, adicione novos tópicos ou subtópicos. Use esse arquivo como um guia rápido para manter claro os objetivos de seu projeto para os demais integrantes. Manter o foco conjunto de forma coesa lhe ajudará a criar um produto mais *sólido*.
-
-Tenha em mente que seu trabalho nesse repositório será avaliado por um Juri Técnico, informações sobre a tecnologia usada também são bem vindas. 
+O produto Connections é uma plataforma de interação entre empresas de grande e médio porte, startups, institutos de ciência e tecnologia, universidades e indíviduos que desejam contribuir para a inovação. Nele, essas entidades poderão se divulgar seus projetos, buscar parcerias através da interação com outras empresas na plataforma, trocar informações com outros players e até mesmo descobrir e conhecer novas tecnologias e as pessoas por trás delas.
